@@ -1,2 +1,4 @@
 a1 file modified at master branch
-a1 file modified again in master branch
+Content from master branch
+Content from feature branch
+
